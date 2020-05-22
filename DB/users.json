@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "박지현",
+    "nickname": "빡빡쮜",
+    "email": "jihyun961029@gmail.com",
+    "password": "000000",
+    "profile": "https://file2.nocutnews.co.kr/newsroom/image/2015/11/22/20151122142356616047.jpg",
+    "age": "25",
+    "description:": "hello!",
+    "friends": [ 3 ]
+  },
+  {
+    "id": 2,
+    "name": "신데렐라",
+    "nickname": "Cinderella",
+    "email": "seojunpark@gmail.com",
+    "password": "000000",
+    "profile": "https://lh3.googleusercontent.com/proxy/VqLgRvlW3xsFWOA7-ID0LKaSdDp2QR4xHFzHrfzz9BmrQpUsJdgFukIH6PsT1cEcGXbwgquGpecrV-qZ3XZ3tQLnU9vYEMbh2lbMbm4Nm43cybb8NsfwKvtEy2M-63Ke5_u-4D22K96fZss_wLA68Tr1ViECChHaXJkksIDDoBdT6Sc",
+    "age": "31",
+    "description": "안녕하세요 신데렐라입니다.",
+    "friends": []
+  },
+  {
+    "id": 3,
+    "name": "백설공주",
+    "nickname": "Snow White",
+    "email": "jihyunpark@gmail.com",
+    "password": "000000",
+    "profile": "https://lh3.googleusercontent.com/proxy/BTGGvvHDSWn-CT1c4cSmI3jj_PT8mC_8NLLjVmDmk_7QRDV6N-HuGEvv4UBX7jPLkLuyyTzV_4xufunumk3nQTkFHWIpdF4-vp8H1dD4EWU",
+    "age": "25",
+    "description": "백설공주입니다.",
+    "friends": [ 1 ]
+  }
+]
